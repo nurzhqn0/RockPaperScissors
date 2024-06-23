@@ -12,6 +12,7 @@ int main(){
     int aiThrow = 0;
     bool draw = false;
     
+    
     do {
         cout << "Select your throw:" << endl;
         cout << "1) Rock" << endl;
